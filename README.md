@@ -1,5 +1,5 @@
 
-<h1 align="left">Heyoo! I'm Rajiv Dalal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Heyoo! I'm Rajiv Dalal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" ></h1>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div>
   <p align="left">

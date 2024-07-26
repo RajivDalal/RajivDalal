@@ -1,5 +1,6 @@
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <h1 align="left">Heyoo! I'm Rajiv Dalal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" ></h1>
+
 <div>
   <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Frontend+Web+Developer;AI%2FML+%7C+Game+Dev+Enthusiast" alt="Typing SVG" /></a>
@@ -58,7 +59,6 @@
 <br/>
 
 ## 🔥 Streak Stats
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajivDalal&theme=algolia" alt="RajivDalal"  /></p>
 
 ## 📊 Github Stats (Expand to View) 

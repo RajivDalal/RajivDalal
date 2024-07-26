@@ -34,17 +34,17 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="6" />
-  
+  <img width="180" />
+
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="6" />    
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
-  <img width="50" />
+  <img width="6" />
+  
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="6" />
-
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />

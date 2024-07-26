@@ -4,18 +4,15 @@
   <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Frontend+Web+Developer;AI%2FML+%7C+Game+Dev+Enthusiast" alt="Typing SVG" /></a>
   </p>
-
 </div>
 <!--<h4 align="center">I am pursuing B.Tech in CSE at VIT Vellore.</h4>-->
 
 ## 🔥 Streak Stats
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajivDalal&theme=algolia" alt="RajivDalal"  /></p>
 
 
-## 🛠️ My Skills
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+## 🛠️ My Tech Stack
 <div align="left">
 
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />

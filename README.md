@@ -1,6 +1,5 @@
 
 <h1 align="left">Heyoo! I'm Rajiv Dalal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" ></h1>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div>
   <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Frontend+Web+Developer;AI%2FML+%7C+Game+Dev+Enthusiast" alt="Typing SVG" /></a>
@@ -34,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="180" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="6" />    
@@ -59,6 +58,7 @@
 <br/>
 
 ## 🔥 Streak Stats
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajivDalal&theme=algolia" alt="RajivDalal"  /></p>
 
 ## 📊 Github Stats (Expand to View) 

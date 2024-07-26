@@ -7,11 +7,6 @@
 </div>
 <!--<h4 align="center">I am pursuing B.Tech in CSE at VIT Vellore.</h4>-->
 
-## 🔥 Streak Stats
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajivDalal&theme=algolia" alt="RajivDalal"  /></p>
-
-
 ## 🛠️ My Tech Stack
 <div align="left">
 
@@ -55,6 +50,10 @@
 </div>
 
 <br/>
+
+## 🔥 Streak Stats
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajivDalal&theme=algolia" alt="RajivDalal"  /></p>
 
 ## 📊 Github Stats (Expand to View) 
 

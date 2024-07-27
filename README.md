@@ -1,4 +1,3 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <h1 align="left">Heyoo! I'm Rajiv Dalal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" ></h1>
 
 <div>
@@ -6,7 +5,32 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Frontend+Web+Developer;AI%2FML+%7C+Game+Dev+Enthusiast" alt="Typing SVG" /></a>
   </p>
 </div>
+
+
+```json
+{
+
+    "name": "Rajiv Dalal"
+    "location": "India"
+
+    "education" {
+        "degree": "Persuing B.Tech in CSE from VIT, Vellore"
+    }
+
+    "techStack" {
+        "frontendDev": ["React", "Next"]
+        "gameDev": ["Unity", "Godot"]
+        "AI/ML": ["tesorflow"]
+        "DSA": ["C", "C++", "Java"]
+    }
+
+    "OS": ["Fedora"]
+
+}
+```
+
 <!--<h4 align="center">I am pursuing B.Tech in CSE at VIT Vellore.</h4>-->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠️ My Tech Stack
 

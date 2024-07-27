@@ -29,10 +29,9 @@
 }
 ```
 
-<!--<h4 align="center">I am pursuing B.Tech in CSE at VIT Vellore.</h4>-->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ## 🛠️ My Tech Stack
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <div align="left">
 

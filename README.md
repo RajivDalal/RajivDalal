@@ -63,8 +63,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
-  <img width="6" />
-  <img width="18" />
+  <img width="60" />
   
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="6" />

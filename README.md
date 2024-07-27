@@ -28,7 +28,6 @@
 
 }
 ```
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠️ My Tech Stack
@@ -65,6 +64,7 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
   <img width="6" />
+  <img width="18" />
   
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="6" />

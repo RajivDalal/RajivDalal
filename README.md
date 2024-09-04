@@ -20,7 +20,7 @@
     "techStack" {
         "frontendDev": ["React", "Next"]
         "gameDev": ["Unity", "Godot"]
-        "AI/ML": ["tesorflow"]
+        "AI/ML": ["tensorflow", "keras"]
         "DSA": ["C", "C++", "Java"]
     }
 
